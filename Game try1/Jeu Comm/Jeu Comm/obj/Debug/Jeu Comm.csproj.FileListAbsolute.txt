@@ -1,0 +1,30 @@
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.exe.config
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.exe
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.pdb
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.csprojResolveAssemblyReference.cache
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.frmJeu.resources
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.Properties.Resources.resources
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.csproj.GenerateResource.Cache
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.exe
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.pdb
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.exe.config
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.exe
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.pdb
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.csprojResolveAssemblyReference.cache
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.frmJeu.resources
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.Properties.Resources.resources
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.csproj.GenerateResource.Cache
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.exe
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.pdb
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.exe.config
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.exe
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.pdb
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.exe
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\bin\Debug\Jeu Comm.pdb
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.csprojResolveAssemblyReference.cache
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.frmJeu.resources
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.Properties.Resources.resources
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu Comm.csproj.GenerateResource.Cache
+F:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.frmStartup.resources
+E:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.frmStartup.resources
+D:\Cegep Session 3\Projet Final Comm\Game try1\Jeu Comm\Jeu Comm\obj\Debug\Jeu_Comm.frmStartup.resources
